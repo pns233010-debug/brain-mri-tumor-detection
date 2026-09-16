@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .env
 .ipynb_checkpoints/
+
+# Large TensorFlow model
+VGG16_GAP_PSO_AdamW_FocalLoss.keras
